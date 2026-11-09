@@ -1,12 +1,13 @@
 # CRUD Postman
 ## 1. GET
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b0951008-2ed4-41f0-9abb-7dc8c37b826b" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/84fec6ce-0caa-404c-aed9-45354682e9c6" />
 
 ## 2. POST
-<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/d14267de-5bf5-4ef4-a8cf-a1aa90b36b8b" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0b8945da-16f8-40c7-b962-d117760ba047" />
 
 ## 3. PUT
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/fd967d6e-16d9-4b60-9855-a49019b995ba" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/855d9e42-c869-4530-b378-cf251475090e" />
 
 ## 4. DELETE
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/b10cfa74-dc9a-4d56-9b10-b2d1739c95d0" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/44dcac4d-ee76-4e8b-a919-cc2ac7a1f2a7" />
+
