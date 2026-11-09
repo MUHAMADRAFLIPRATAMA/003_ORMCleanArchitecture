@@ -35,3 +35,8 @@ async function createKomik(req, res) {
     }
 }
 
+async function updateKomik(req, res) {
+  const { id } = req.params;
+  const { title, description, author } = req.body;
+
+  
